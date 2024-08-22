@@ -17,8 +17,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import com.cg.fms.dao.SchedulerDao;
 import com.cg.fms.entity.Order;
 import com.cg.fms.entity.Scheduler;
-import com.cg.fms.exception.ContractException;
-import com.cg.fms.exception.CustomerException;
 import com.cg.fms.exception.SchedulerException;
 import com.cg.fms.model.SchedulerModel;
 
